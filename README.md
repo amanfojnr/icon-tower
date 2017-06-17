@@ -2,10 +2,10 @@
 
 
 # icon-tower
-an open source svg icon pack  for your projects.
+An open source svg icon pack  for your projects.
 
 ## How-To 
-You can use any svg editor to grap the icons you need and also cutomize the colors to 
+You can use any svg editor to grab the icons you need and also cutomize the colors to 
 fit your use case.
 
 #### Recommended sotware to use
@@ -18,3 +18,5 @@ fit your use case.
 
 
 ![Media](https://s25.postimg.org/a072wcez3/media.png)
+
+#### Please, leave a star if you find this helpful ;)
