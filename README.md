@@ -9,11 +9,11 @@ You can use any svg editor to grab the icons you need and also cutomize the colo
 fit your use case.
 
 #### Recommended sotware to use
-- Inkscape(opensource)
+- Inkscape(open source)
 - Adobe Illustrator
 
 
-## Avalaible font packs
+## Available font packs
 ![E-commerce](https://s25.postimg.org/f04j4aklr/ecommerce-showcase.png)
 
 
